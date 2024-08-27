@@ -1,1 +1,0 @@
-its a readme file just for checking fir my git hub is working on commiting file , actually my git hub is not working properly like i hava comitted my code on my git hub ( push the code ) but it is not showing my daily commiting feed that i have aploaded anything
